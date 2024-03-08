@@ -8,7 +8,7 @@
 
 ### Debe contener:
  * con una imagen texturada de fondo, 
- * una imágen del producto sobre el backgrownd
+ * una imágen del producto sobre el background
  * un texto de promoción.
 
 
