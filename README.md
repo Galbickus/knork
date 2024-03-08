@@ -9,7 +9,7 @@
 ### Debe contener:
  * con una imagen texturada de fondo, 
  * una imágen del producto sobre el backgrownd
- * un texto de promosión.
+ * un texto de promoción.
 
 
 ![consigna](https://github.com/Galbickus/knork/assets/135274833/a611b00a-77ba-4d1c-aa70-c419571d7b0a)
